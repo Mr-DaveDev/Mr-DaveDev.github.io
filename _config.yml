@@ -1,0 +1,8 @@
+title: Motion
+description: The Motion Application Project Website
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-cayman
+
+gems:
+  - jekyll-mentions
